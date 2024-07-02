@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Clash
+Comment=Clash
+Exec='/home/user/Documents/clash_for_windows_linuxVersion/Clash for Windows-0.20.39-x64-linux/cfw'
+Type=Application
+Terminal=false
+Icon=/home/user/Documents/clash_for_windows_linuxVersion/clash_icon/Clash_Logo.png
+Categories=Application;
+StartupWMClass=clash
